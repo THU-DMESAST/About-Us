@@ -41,10 +41,13 @@ Past Projects
  ■	Every year, we receive many creative and interesting project applications. Some of them also make great achievement in school competitions and research programs.
 
 >   Skin-changeable manipulator (A Challenge Cup project)
+
 ![](media/STI_project_skin_changeable_manipulator.png)
 
 >   Automatic obstacle avoiding car
+
 ![](media/STI_project_AGV.png)
 
 >   Light cube
+
 ![](media/STI_project_light_cube.png)
