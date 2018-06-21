@@ -36,15 +36,15 @@ Past Projects
 ------------------------
  ■	In 2016，we set up 4 starter projects for the freshman，including quadrotor，balance car，automatic obstacle avoiding car and gear clock.
 
-![](media/cd6b053a44207b6b7485a3a03644fedf.png)
+![](media/STI_poster_2016.png)
 
  ■	Every year, we receive many creative and interesting project applications. Some of them also make great achievement in school competitions and research programs.
 
-![](media/c538b475985a12fa6257b7eab3accc47.png)
 >   Skin-changeable manipulator (A Challenge Cup project)
+![](media/STI_project_skin_changeable_manipulator.png)
 
-![](media/0fbb59f4a314c2520c0d75eee7fa40f9.png)
 >   Automatic obstacle avoiding car
+![](media/STI_project_AGV.png)
 
-![](media/1b722983d0f0202ca0057e314785105f.png)
 >   Light cube
+![](media/STI_project_light_cube.png)
